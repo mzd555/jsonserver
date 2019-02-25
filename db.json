@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[ { "ID": 1, "code": "ER38sd", "departureDate": "2017/07/26", "destination": "SFO", "emptySeats": 0, "origin": "CLE", "plane": { "totalSeats": 150, "type": "Boeing 737" }, "price": 400 }, { "ID": 2, "code": "ER45if", "departureDate": "2017/07/27", "destination": "ORD", "emptySeats": 54, "origin": "SFO", "plane": { "totalSeats": 300, "type": "Boeing 777" }, "price": 540.99 } ]
